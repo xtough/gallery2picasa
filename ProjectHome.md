@@ -1,0 +1,1 @@
+gallery2picasa is a Python command-line tool to migrate gallery2 galleries to picasaweb.
